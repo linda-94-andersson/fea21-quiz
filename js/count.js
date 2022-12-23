@@ -5,7 +5,7 @@
 
 function count(string) {
   // Skriv din kod här inne
-
+  return string.length; 
 }
 
 // Ändra inte dessa
