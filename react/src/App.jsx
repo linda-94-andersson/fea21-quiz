@@ -13,7 +13,7 @@ import Six from "./challenges/Six";
 const problems = [
   <One />,
   <Two items={["Bedrock", "Graphite", "Flint"]} />,
-  // <Three items={["Bedrock", 1, "Graphite", 2, "Flint", 3]} />,
+  <Three items={["Bedrock", 1, "Graphite", 2, "Flint", 3]} />,
   <Four />,
   <Five />,
   <Six />,
