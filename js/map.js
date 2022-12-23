@@ -7,7 +7,7 @@
 
 function christmasify(array) {
   // Skriv din kod här
-  
+  return array.map((a) => "Jul"+a); 
 }
 
 const result = christmasify(["Sill", "Julmust", "Korv", "Janssons", "Svill"])
