@@ -15,7 +15,7 @@ const problems = [
   <Two items={["Bedrock", "Graphite", "Flint"]} />,
   // <Three items={["Bedrock", 1, "Graphite", 2, "Flint", 3]} />,
   <Four />,
-  //<Five />,
+  <Five />,
   //<Six />,
 ];
 
