@@ -16,7 +16,7 @@ const problems = [
   // <Three items={["Bedrock", 1, "Graphite", 2, "Flint", 3]} />,
   <Four />,
   <Five />,
-  //<Six />,
+  <Six />,
 ];
 
 // Du behöver inte röra följande kod
