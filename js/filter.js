@@ -8,7 +8,8 @@ const nastyFoods = ["Pannkakor", "Lingonsylt", "Fläsksvålar"];
 
 function noNastyFood(array) {
   // Skriv din kod här
-
+  return array.filter((arr) => arr !== nastyFoods);
+  // jag fattar inte hur jag ska lösa denna uppgift, och tänker inte googla för då visar det inte vad jag kan
 }
 
 const result = noNastyFood(["Korv", "Sylta", "Pannkakor", "Chips", "Lingonsylt"]);
