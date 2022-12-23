@@ -10,10 +10,10 @@ const person = {
 // OBS: Du får inte ändra funktions-parametrarna.
 function printName(first, last) {
   // Skriv din kod här
-
+  return first + " " + last;
 }
 
-// Du kommer även behöva ändra anropet här nedan
+// Du kommer även behöva ändra anropet här nedan   //Varför då??? Hur? Till vad? 
 printName(person.firstName, person.lastName) // "Oscar Nilsson"
 
 module.exports = printName
